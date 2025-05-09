@@ -2,7 +2,7 @@
 
 <div style="width:100%; display:flex;justify-content:center;align-items:center;margin:20px"><img src="https://25.media.tumblr.com/tumblr_m19ay5UfaL1qzl9pho1_400.gif"/></div>
 
-- ☕ Me considero una persona que se encuentra adentrandose al mundo de la programación, termine mis estudios como desarrollador de software en la creación de productos, desde su documentacion y entrega. Pero a decir verdad me gusta más codificar y crear soluciones, pero; concidero que el crear un producto ya es todo un viaje de aprendizaje y experiencia :).
+- ☕ Ultimamente me encuentro adentrandome al mundo de la programación web, termine mis estudios como desarrollador de software en la creación de productos, desde su documentacion y entrega. Pero a decir verdad me gusta más codificar y crear soluciones, pero; concidero que el crear un producto ya es todo un viaje de aprendizaje y experiencia :).
 - 🌱 Actualmente estoy profundizando en tecnologías como **React** y **Node.js**.
 - 💻 Si de pasiones hablamos, puedo decir que el simple echo de desarrollar es una pasion realmente bonita.
 - 🎯 Tengo como objetivo mejorar mis skills como desarrollador de software y crear mis propios productos para la comunidad, e igual poder contribuir y ayudar en los objetivos de las demás personas.
